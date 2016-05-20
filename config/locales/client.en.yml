@@ -3,4 +3,4 @@ en:
     admin:
       site_settings:
         categories:
-          webhooks: 'Webhooks'
+          webhooks: 'Notifications Webhook'
